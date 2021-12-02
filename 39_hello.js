@@ -2,6 +2,7 @@ var http = require('http');
 var fs = require('fs'); // filesystem module 
 var url = require('url');
 var portNum = 8080;
+const PORT = process.env.PORT || 5000 // copied from heroku docs
 
 // accessing the file system by filesystem module
 

@@ -4,6 +4,7 @@
   "description": "Simple Web App",
   "main": "39_hello.js",
   "scripts": {
+    "start": "node 39_hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
