@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.13.0",
+  "description": "Simple Web App",
+  "main": "39_hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhosoro/Intro-to-Node.git"
+  },
+  "author": "Juho Soronen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juhosoro/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/juhosoro/Intro-to-Node#readme"
+}
